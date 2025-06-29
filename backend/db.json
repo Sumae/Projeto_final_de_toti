@@ -1,0 +1,79 @@
+{
+  "beneficiarios": [
+    {
+      "id": 1,
+      "nome": "Maria da Silva",
+      "idade": 35,
+      "email": "maria@example.com",
+      "telefone": "11999999999",
+      "tipoDeAjuda": "Cesta básica",
+      "situacaoSocial": "Vulnerabilidade alta"
+    },
+    {
+      "id": 2,
+      "nome": "João Souza",
+      "idade": 40,
+      "email": "joao@example.com",
+      "telefone": "11988888888",
+      "tipoDeAjuda": "Acompanhamento psicológico",
+      "situacaoSocial": "Vulnerabilidade média"
+    },
+    {
+      "id": 3,
+      "nome": "Ana Costa",
+      "idade": 28,
+      "email": "ana@example.com",
+      "telefone": "21977777777",
+      "tipoDeAjuda": "Treinamento profissionalizante",
+      "situacaoSocial": "Vulnerabilidade baixa"
+    },
+    {
+      "nome": "Sabado Paulo",
+      "idade": "20",
+      "email": "sabado@gmail.com",
+      "telefone": "23983333888",
+      "tipoDeAjuda": "Suporte educacional",
+      "situacaoSocial": "Vulnerabilidade alta",
+      "id": 4
+    },
+    {
+      "nome": "Domingos Paulo",
+      "idade": "19",
+      "email": "domingos@gmail.com",
+      "telefone": "85333444444",
+      "tipoDeAjuda": "Suporte educacional",
+      "situacaoSocial": "Vulnerabilidade baixa",
+      "id": 5
+    },
+    {
+      "nome": "Paulo Santos",
+      "idade": "25",
+      "email": "paulo@gmail.com",
+      "telefone": "22985410805",
+      "tipoDeAjuda": "Cesta básica",
+      "situacaoSocial": "Vulnerabilidade alta",
+      "id": 6
+    },
+    {
+      "nome": "Mariana Gomes",
+      "idade": "40",
+      "email": "mariana@gmail.com",
+      "telefone": "77783333888",
+      "tipoDeAjuda": "Acompanhamento psicológico",
+      "situacaoSocial": "Vulnerabilidade alta",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "sumaeamaduembalo@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "username": "embalo",
+      "password": "1234567",
+      "id": 2
+    }
+  ]
+}

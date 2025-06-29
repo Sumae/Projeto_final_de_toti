@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "administrador",
+      "password": "0000",
+      "name": "Admin",
+      "age": "99"
+    },
+    {
+      "email": "perolito",
+      "password": "1234",
+      "name": "Ale",
+      "age": "37",
+      "id": 2
+    },
+    {
+      "email": "sumaeamaduembalo@gmail.com",
+      "password": "1234567",
+      "name": "sumae",
+      "age": "2001",
+      "id": 3
+    }
+  ],
+  "globalData": [
+    {
+      "id": 1,
+      "text": "Primer dato cargado desde el botón"
+    }
+  ]
+}
